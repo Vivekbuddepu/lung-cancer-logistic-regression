@@ -66,5 +66,8 @@ This project was completed as part of the **M.Sc. Statistics (2024–2025)** pro
 | LC | Target variable (1 = Cancer, 0 = No Cancer) |
 
 ---
+## 👨‍💻 Author
+**Buddepu Vivek**  
+Data Analyst Enthusiast | [LinkedIn](https://www.linkedin.com/in/buddepu-vivek/)
 
 
